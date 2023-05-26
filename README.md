@@ -1,4 +1,4 @@
-# 2019 Tower Defence Game using Allegro 5
+# Tower Defence Game using Allegro 5
 
 Brief Description:
 1. I made a simple tower defence game with the help of Allegro 5 gaming engine.
