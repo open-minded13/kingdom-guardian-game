@@ -1,15 +1,15 @@
-# Tower Defence Game using Allegro 5
+# Guardian of the Kingdom — A C++ Tower Defense Game with a Breadth-First Search Algorithm. 
 
 Brief Description:
-1. I made a simple tower defence game with the help of Allegro 5 gaming engine.
-2. Programming Language: C++ (with an aid of Allegro 5 game programming library)
+1. A simple tower defense game with the help of the Allegro 5 gaming engine and C++ programming language.
+2. A Breadth-First Search algorithm is implemented to enable the enemies to move along the path and avoid obstacles.
 3. Game Rules:
 
    - Player can place one or more towers to attack enemies.
    - Enemies can move along with the path (a simple Breadth-First Search algorithm inside), and those would be attacked by the defensive towers of the player.
    - A special spell which can eliminate all the enemies in sight is available.
 
-3. Screenshots: 
+4. Screenshots: 
    
    - The player's tanks move on the track:
    
